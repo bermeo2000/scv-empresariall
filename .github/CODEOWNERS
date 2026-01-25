@@ -1,0 +1,13 @@
+# CODEOWNERS - scv-empresarial
+
+# Propietarios globales (ambos miembros del equipo)
+* @bermeo2000 @alexv2995-alt
+
+# Propietarios por área de responsabilidad
+/src/ @bermeo2000
+/docs/ @alexv2995-alt
+/tests/ @bermeo2000 @alexv2995-alt
+
+# Archivos críticos requieren ambos reviewers
+CONTRIBUTING.md @bermeo2000 @alexv2995-alt
+README.md @bermeo2000 @alexv2995-alt
